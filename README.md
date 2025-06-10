@@ -89,7 +89,7 @@ Proyek ini dilisensikan di bawah lisensi MIT - lihat file [LICENSE](LICENSE) unt
 
 ## 👨‍💻 Author
 
-**CodeFomo & Yosh Casaster**
+**Allxddev**
 
 - GitHub: [AllxdDev-Hosting](https://github.com/AllxdDev-Hosting)
 
